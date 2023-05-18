@@ -11,9 +11,9 @@ Naming conventions for Cloudflare projects:
 ## Repositories
 | Name | Description |
 | ---- | ----------- |
-| RideTrackerApp | An Expo project to serve the Ride Tracker App. |
-| RideTrackerPages | A Cloudflare Pages projects to serve the front page of https://ridetracker.app |
-| RideTrackerService | A Cloudflare Workers project to serve as an API for the Ride Tracker App. |
+| [RideTrackerApp](https://github.com/RideTracker/RideTrackerApp) | An Expo project to serve the Ride Tracker App. |
+| [RideTrackerPages](https://github.com/RideTracker/RideTrackerPages) | A Cloudflare Pages projects to serve the front page of https://ridetracker.app |
+| [RideTrackerService](https://github.com/RideTracker/RideTrackerService) | A Cloudflare Workers project to serve as an API for the Ride Tracker App. |
 | [RouteService](https://github.com/RideTracker/RouteService) | A Cloudflare Pages project to embed a 3d rendered route integrations. |
 
 <!--
