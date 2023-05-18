@@ -8,12 +8,16 @@ Naming conventions for repositories:
 Naming conventions for Cloudflare projects:
 - Services and Pages are prefixed with `ridetracker-` and each SnakeCase word is seperated by spaces, e.g. `ridetracker-pages`.
 
-## Repositories
+### Primary Repositories
 | Name | Description |
 | ---- | ----------- |
 | [RideTrackerApp](https://github.com/RideTracker/RideTrackerApp) | An Expo project to serve the Ride Tracker App. |
 | [RideTrackerPages](https://github.com/RideTracker/RideTrackerPages) | A Cloudflare Pages projects to serve the front page of https://ridetracker.app |
 | [RideTrackerService](https://github.com/RideTracker/RideTrackerService) | A Cloudflare Workers project to serve as an API for the Ride Tracker App. |
+
+### Secondary Repositories
+| Name | Description |
+| ---- | ----------- |
 | [RouteService](https://github.com/RideTracker/RouteService) | A Cloudflare Pages project to embed a 3d rendered route integrations. |
 | [AvatarService](https://github.com/RideTracker/AvatarService) | A Node.js project to manage and upload avatar packages for the avatar editor. |
 
