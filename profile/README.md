@@ -1,5 +1,10 @@
 ## Welcome to the team 🙌
 
+Naming conventions for repositories:
+- "Services" are workers or pages projects that are **not used by customers directly.**
+- "Pages" are workers or pages projects that are used by customers directly, for example https://ridetracker.app.
+- "App" is an application that are used by customers directly, for example the RideTrackerApp.
+
 <!--
 
 **Here are some ideas to get you started:**
