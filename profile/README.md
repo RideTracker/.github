@@ -5,6 +5,14 @@ Naming conventions for repositories:
 - "Pages" are workers or pages projects that are used by customers directly, for example https://ridetracker.app.
 - "App" is an application that are used by customers directly, for example the RideTrackerApp.
 
+## Repositories
+| Name | Description |
+| ---- | ----------- |
+| RideTrackerApp | An Expo project to serve the Ride Tracker App. |
+| RideTrackerPages | A Cloudflare Pages projects to serve the front page of https://ridetracker.app |
+| RideTrackerService | A Cloudflare Workers project to serve as an API for the Ride Tracker App. |
+| [RouteService](https://github.com/RideTracker/RouteService) | A Cloudflare Pages project to embed a 3d rendered route integrations. |
+
 <!--
 
 **Here are some ideas to get you started:**
