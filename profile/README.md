@@ -1,15 +1,4 @@
 ## Welcome to the team 🙌
-
-Naming conventions for repositories:
-- "Services" are workers or pages projects that are **not used by customers directly.**
-- "Pages" are workers or pages projects that are used by customers directly, for example https://ridetracker.app.
-- "App" is an application that are used by customers directly, for example the RideTrackerApp.
-- "Package" is a package that accompany an internal service, for example the ApiClientPackage.
-
-Naming conventions for Cloudflare:
-- Services and Pages are prefixed with `ridetracker-` and each SnakeCase word is seperated by dashes, e.g. `ridetracker-pages`.
-
-### Primary Repositories
 | Name | Description |
 | ---- | ----------- |
 | [RideTrackerApp](https://github.com/RideTracker/RideTrackerApp) | An Expo project to serve the Ride Tracker App. |
@@ -22,6 +11,15 @@ Naming conventions for Cloudflare:
 | [ApiClientPackage](https://github.com/RideTracker/ApiClientPackage) | A TypeScript package to provide low-level API clients for all services. |
 | [RouteService](https://github.com/RideTracker/RouteService) | A Cloudflare Pages project to embed a 3d rendered route integrations. |
 | [AvatarService](https://github.com/RideTracker/AvatarService) | A Node.js project to manage and upload avatar packages for the avatar editor. |
+
+## Naming conventions for repositories:
+- "Services" are workers or pages projects that are **not used by customers directly.**
+- "Pages" are workers or pages projects that are used by customers directly, for example https://ridetracker.app.
+- "App" is an application that are used by customers directly, for example the RideTrackerApp.
+- "Package" is a package that accompany an internal service, for example the ApiClientPackage.
+
+## Naming conventions for Cloudflare:
+- Services and Pages are prefixed with `ridetracker-` and each SnakeCase word is seperated by dashes, e.g. `ridetracker-pages`.
 
 <!--
 
