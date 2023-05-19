@@ -5,8 +5,8 @@ Naming conventions for repositories:
 - "Pages" are workers or pages projects that are used by customers directly, for example https://ridetracker.app.
 - "App" is an application that are used by customers directly, for example the RideTrackerApp.
 
-Naming conventions for Cloudflare projects:
-- Services and Pages are prefixed with `ridetracker-` and each SnakeCase word is seperated by spaces, e.g. `ridetracker-pages`.
+Naming conventions for Cloudflare:
+- Services and Pages are prefixed with `ridetracker-` and each SnakeCase word is seperated by dashes, e.g. `ridetracker-pages`.
 
 ### Primary Repositories
 | Name | Description |
