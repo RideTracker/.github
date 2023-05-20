@@ -1,9 +1,3 @@
-<p align="center">
-
-![Infrastructure diagram](https://github.com/RideTracker/.github-private/assets/78360666/65a5243c-a36a-4b17-b16b-8eb3dca01a03)
-
-</p>
-
 ## Welcome to the team 🙌
 | Name | Description |
 | ---- | ----------- |
@@ -23,6 +17,12 @@
 
 ## Naming conventions for Cloudflare:
 - Services and Pages are prefixed with `ridetracker-` and each SnakeCase word is seperated by dashes, e.g. `ridetracker-pages`.
+
+<p align="center">
+  
+![Infrastructure Diagram](https://github.com/RideTracker/.github-private/assets/78360666/106042c9-651a-4d07-a791-abc0ad2f17d0)
+  
+</p>
 
 <!--
 
