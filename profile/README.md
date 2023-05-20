@@ -7,6 +7,8 @@
 | [RideTrackerClient](https://github.com/RideTracker/RideTrackerClient) | A TypeScript package to provide low-level API clients for all services. |
 | [RouteService](https://github.com/RideTracker/RouteService) | A Cloudflare Pages project to embed a 3d rendered route integrations. |
 | [AvatarService](https://github.com/RideTracker/AvatarService) | A Node.js project to manage and upload avatar packages for the avatar editor. |
+| [AvatarImageService](https://github.com/RideTracker/AvatarImageService) | An Express server to generate server rendered avatars through the avatar service. |
+
 
 ## Naming conventions for repositories:
 - "Services" are workers or pages projects that are **not used by customers directly.**
