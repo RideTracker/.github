@@ -1,3 +1,18 @@
+
+<p align="center">
+  
+![chart](https://github.com/RideTracker/.github-private/assets/78360666/b3855d20-598d-4844-943a-d85ee57d9b82#gh-light-mode-only)
+  
+</p>
+
+<p align="center">
+  
+![chart](https://github.com/RideTracker/.github-private/assets/78360666/701f90e8-0d6b-4f89-b87c-6aea00d81478#gh-dark-mode-only)
+  
+</p>
+
+
+
 ## Welcome to the team 🙌
 | Name | Description |
 | ---- | ----------- |
@@ -8,7 +23,6 @@
 | [RouteService](https://github.com/RideTracker/RouteService) | A Cloudflare Pages project to embed a 3d rendered route integrations. |
 | [AvatarService](https://github.com/RideTracker/AvatarService) | A Node.js project to manage and upload avatar packages for the avatar editor. |
 | [AvatarImageService](https://github.com/RideTracker/AvatarImageService) | A web server to generate server-rendered avatars through the avatar service. |
-
 
 ## Naming conventions for repositories:
 - "Services" are workers or pages projects that are **not used by customers directly.**
