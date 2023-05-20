@@ -1,6 +1,6 @@
 <p align="center">
 
-![Infrastructure chart](https://github.com/RideTracker/.github-private/assets/78360666/f93496ec-c637-4148-a317-93f71bc7a26a)
+![Infrastructure diagram](https://github.com/RideTracker/.github-private/assets/78360666/65a5243c-a36a-4b17-b16b-8eb3dca01a03)
 
 </p>
 
