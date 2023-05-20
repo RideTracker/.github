@@ -1,17 +1,8 @@
-
 <p align="center">
-  
-![chart](https://github.com/RideTracker/.github-private/assets/78360666/b3855d20-598d-4844-943a-d85ee57d9b82#gh-light-mode-only)
-  
+
+![Infrastructure chart](https://github.com/RideTracker/.github-private/assets/78360666/f93496ec-c637-4148-a317-93f71bc7a26a)
+
 </p>
-
-<p align="center">
-  
-![chart](https://github.com/RideTracker/.github-private/assets/78360666/701f90e8-0d6b-4f89-b87c-6aea00d81478#gh-dark-mode-only)
-  
-</p>
-
-
 
 ## Welcome to the team 🙌
 | Name | Description |
