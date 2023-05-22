@@ -4,9 +4,10 @@
 | [RideTrackerApp](https://github.com/RideTracker/RideTrackerApp) | An Expo project to serve the Ride Tracker App. |
 | [RideTrackerPages](https://github.com/RideTracker/RideTrackerPages) | A Cloudflare Pages projects to serve the front page of https://ridetracker.app |
 | [RideTrackerService](https://github.com/RideTracker/RideTrackerService) | A Cloudflare Workers project to serve as an API for the Ride Tracker App. |
-| [RideTrackerClient](https://github.com/RideTracker/RideTrackerClient) | A TypeScript package to provide low-level API clients for all services. |
+| [RideTrackerClient](https://github.com/RideTracker/RideTrackerClient) | A TypeScript package to provide a low-level API client for the RideTrackerService. |
 | [RouteService](https://github.com/RideTracker/RouteService) | A Cloudflare Pages project to embed a 3d rendered route integrations. |
 | [AvatarService](https://github.com/RideTracker/AvatarService) | A Node.js project to manage and upload avatar packages for the avatar editor. |
+| [AvatarClient](https://github.com/RideTracker/AvatarClient) | A TypeScript package to provide a low-level API client for the AvatarService. |
 | [AvatarImageService](https://github.com/RideTracker/AvatarImageService) | A web server to generate server-rendered avatars through the avatar service. |
 
 ## Naming conventions for repositories:
