@@ -10,7 +10,7 @@
 | | |
 | [AvatarService](https://github.com/RideTracker/AvatarService) | A Node.js project to manage and upload avatar packages for the avatar editor. |
 | [AvatarClient](https://github.com/RideTracker/AvatarClient) | A TypeScript package to provide a low-level API client for the AvatarService. |
-| [AvatarAssets](https://github.com/RideTracker/AvatarAssets) | ... |
+| [AvatarAssets](https://github.com/RideTracker/AvatarAssets) | A project to manage the source assets for the avatar service. |
 
 ## Naming conventions for repositories:
 - "Services" are workers or pages projects that are **not used by customers directly.**
