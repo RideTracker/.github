@@ -22,7 +22,7 @@
 - Services and Pages are prefixed with `ridetracker-` and each SnakeCase word is seperated by dashes, e.g. `ridetracker-pages`.
 
 <p align="center">
-  <img src="https://github.com/RideTracker/.github-private/assets/78360666/78360666/474f2b5f-1d07-4d1d-ae0a-1d7696416247">
+  <img src="https://github.com/RideTracker/.github-private/assets/78360666/78360666/3e0183e7-23f8-41e4-9103-54d7182d6d16">
 </p>
 
 
