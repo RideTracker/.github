@@ -8,8 +8,8 @@
 | | |
 | [RouteService](https://github.com/RideTracker/RouteService) | A Cloudflare Pages project to embed a 3d rendered route integrations. |
 | | |
-| [AvatarService](https://github.com/RideTracker/AvatarService) | A Node.js project to manage and upload avatar packages for the avatar editor. |
-| [AvatarClient](https://github.com/RideTracker/AvatarClient) | A TypeScript package to provide a low-level API client for the AvatarService. |
+| [AvatarService](https://github.com/RideTracker/AvatarService) | A Cloudflare Workers project to serve an API for avatars and an avatar renderering endpoint. |
+| [AvatarClient](https://github.com/RideTracker/AvatarClient) | A TypeScript package to provide a low-level API client for the avatar service. |
 | [AvatarAssets](https://github.com/RideTracker/AvatarAssets) | A project to manage the source assets for the avatar service. |
 
 ## Naming conventions for repositories:
