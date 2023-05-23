@@ -1,25 +1,26 @@
 ## Welcome to the team 🙌
 | Name | Description |
 | ---- | ----------- |
-| [RideTrackerApp](https://github.com/RideTracker/RideTrackerApp) | An Expo project to serve the Ride Tracker App. |
-| [RideTrackerPages](https://github.com/RideTracker/RideTrackerPages) | A Cloudflare Pages projects to serve the front page of https://ridetracker.app |
-| [RideTrackerService](https://github.com/RideTracker/RideTrackerService) | A Cloudflare Workers project to serve as an API for the Ride Tracker App. |
-| [RideTrackerClient](https://github.com/RideTracker/RideTrackerClient) | A TypeScript package to provide a low-level API client for the RideTrackerService. |
+| [RideTrackerApp](https://github.com/RideTracker/RideTrackerApp) | An Expo project to serve the Ride Tracker app. |
+| [RideTrackerPages](https://github.com/RideTracker/RideTrackerPages) | A Cloudflare Pages projects to serve the front page of Ride Tracker. |
+| [RideTrackerService](https://github.com/RideTracker/RideTrackerService) | A Cloudflare Workers project to serve as an API for the Ride Tracker app. |
+| [RideTrackerClient](https://github.com/RideTracker/RideTrackerClient) | A TypeScript package to provide a low-level API client for the Ride Tracker service. |
 | | |
 | [RouteService](https://github.com/RideTracker/RouteService) | A Cloudflare Pages project to embed a 3d rendered route integrations. |
 | | |
-| [AvatarService](https://github.com/RideTracker/AvatarService) | A Cloudflare Workers project to serve an API for avatars and an avatar renderering endpoint. |
+| [AvatarService](https://github.com/RideTracker/AvatarService) | A Cloudflare Workers project to serve an API for avatars. |
 | [AvatarClient](https://github.com/RideTracker/AvatarClient) | A TypeScript package to provide a low-level API client for the avatar service. |
 | [AvatarAssets](https://github.com/RideTracker/AvatarAssets) | A project to manage the source assets for the avatar service. |
 
 ## Naming conventions for repositories:
 - "Services" are workers or pages projects that are **not used by customers directly.**
-- "Pages" are workers or pages projects that are used by customers directly, for example https://ridetracker.app.
-- "App" is an application that are used by customers directly, for example the RideTrackerApp.
-- "Client" is a package that accompany an internal service, for example the RideTrackerClient accompanies the RideTrackerService.
+- "Pages" are workers or pages projects that **are used by customers directly.**
+- "App" is an application that are used by customers directly, for example the Ride Tracker app.
+- "Client" is a package that accompany an internal service, for example the Ride Tracker client for the Ride Tracker service.
 
 ## Naming conventions for Cloudflare:
 - Services and Pages are prefixed with `ridetracker-` and each SnakeCase word is seperated by dashes, e.g. `ridetracker-pages`.
+- Images are named as `RideTracker_<Service>_<file>`, always prefixed with `RideTracker_`.
 
 <p align="center">
   <img src="https://github.com/RideTracker/.github-private/assets/78360666/92fe8b59-b343-4a5d-9381-36968f32f3b4">
