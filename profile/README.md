@@ -25,8 +25,9 @@
   <img src="https://github.com/RideTracker/.github-private/assets/78360666/78360666/3e0183e7-23f8-41e4-9103-54d7182d6d16">
 </p>
 
-
+![Untitled Diagram (12) (16) (1) drawio](https://github.com/RideTracker/.github-private/assets/78360666/92fe8b59-b343-4a5d-9381-36968f32f3b4)
 <!--
+
 
 **Here are some ideas to get you started:**
 
