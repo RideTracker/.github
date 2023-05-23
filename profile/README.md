@@ -5,10 +5,12 @@
 | [RideTrackerPages](https://github.com/RideTracker/RideTrackerPages) | A Cloudflare Pages projects to serve the front page of https://ridetracker.app |
 | [RideTrackerService](https://github.com/RideTracker/RideTrackerService) | A Cloudflare Workers project to serve as an API for the Ride Tracker App. |
 | [RideTrackerClient](https://github.com/RideTracker/RideTrackerClient) | A TypeScript package to provide a low-level API client for the RideTrackerService. |
+| | |
 | [RouteService](https://github.com/RideTracker/RouteService) | A Cloudflare Pages project to embed a 3d rendered route integrations. |
+| | |
 | [AvatarService](https://github.com/RideTracker/AvatarService) | A Node.js project to manage and upload avatar packages for the avatar editor. |
 | [AvatarClient](https://github.com/RideTracker/AvatarClient) | A TypeScript package to provide a low-level API client for the AvatarService. |
-| [AvatarImageService](https://github.com/RideTracker/AvatarImageService) | A web server to generate server-rendered avatars through the avatar service. |
+| [AvatarAssets](https://github.com/RideTracker/AvatarAssets) | ... |
 
 ## Naming conventions for repositories:
 - "Services" are workers or pages projects that are **not used by customers directly.**
@@ -20,7 +22,7 @@
 - Services and Pages are prefixed with `ridetracker-` and each SnakeCase word is seperated by dashes, e.g. `ridetracker-pages`.
 
 <p align="center">
-  <img src="https://github.com/RideTracker/.github-private/assets/78360666/bafaf065-e7ef-40e2-a475-5dbc5ae540a5">
+  <img src="[https://github.com/RideTracker/.github-private/assets/78360666/bafaf065-e7ef-40e2-a475-5dbc5ae540a5](https://github.com/RideTracker/.github-private/assets/78360666/7602c7e9-9a73-48bb-857c-3027edf44b0d)">
 </p>
 
 <!--
