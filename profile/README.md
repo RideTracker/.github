@@ -19,12 +19,18 @@
 - "Client" is a package that accompany an internal service, for example the Ride Tracker client for the Ride Tracker service.
 
 ## Naming conventions for Cloudflare:
-- Services and Pages are prefixed with `ridetracker-` and each SnakeCase word is seperated by dashes, e.g. `ridetracker-pages`.
-- Images are named as `RideTracker_<Service>_<file>`, always prefixed with `RideTracker_`.
+- Services and Pages are prefixed with ridetracker and each SnakeCase word is seperated by dashes.
+- Images are prefixed with RideTracker, followed by the Capitalized service name, followed by the image name or an UUID, seperators should be dashes and not spaces.
 
-<p align="center">
-  <img src="https://github.com/RideTracker/.github-private/assets/78360666/92fe8b59-b343-4a5d-9381-36968f32f3b4">
-</p>
+## Architecture
+<img src="https://github.com/RideTracker/.github-private/assets/78360666/92fe8b59-b343-4a5d-9381-36968f32f3b4">
+
+## Branding
+| Description | Color |
+| ----------- | ----- |
+| Brand | Purple (`#BB87FC`) |
+| Backgrounds | Dark gray-blue (`#171A23`) |
+See organization logo for representation.
 <!--
 
 
