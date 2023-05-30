@@ -26,6 +26,8 @@
 ## Architecture
 <img src="https://github.com/RideTracker/.github-private/assets/78360666/92fe8b59-b343-4a5d-9381-36968f32f3b4">
 
+_* Not listed: alarms that triggers Discord webhooks._
+
 ## Branding
 | Description | Color |
 | ----------- | ----- |
