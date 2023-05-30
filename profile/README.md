@@ -1,16 +1,18 @@
 ## Welcome to the team 🙌
-| Name | Description |
-| ---- | ----------- |
+| Name | Description | Documentation |
+| ---- | ----------- | ------------- |
 | [RideTrackerApp](https://github.com/RideTracker/RideTrackerApp) | An Expo application to serve the Ride Tracker app. |
 | [RideTrackerPages](https://github.com/RideTracker/RideTrackerPages) | A Cloudflare Pages projects to serve the front page of Ride Tracker. |
 | [RideTrackerService](https://github.com/RideTracker/RideTrackerService) | A Cloudflare Workers project to serve as an API for the Ride Tracker app. |
-| [RideTrackerClient](https://github.com/RideTracker/RideTrackerClient) | A TypeScript package to provide a low-level API client for the Ride Tracker service. |
+| [RideTrackerClient](https://github.com/RideTracker/RideTrackerClient) | A TypeScript package to provide a low-level API client for the Ride Tracker service. | https://docs.client.ridetracker.app/ |
 | | |
 | [AvatarService](https://github.com/RideTracker/AvatarService) | A Cloudflare Workers project to serve an API for avatars. |
 | [AvatarClient](https://github.com/RideTracker/AvatarClient) | A TypeScript package to provide a low-level API client for the avatar service. |
 | [AvatarAssets](https://github.com/RideTracker/AvatarAssets) | A project to manage the source assets for the avatar service. |
 | | |
 | [RouteService](https://github.com/RideTracker/RouteService) | A Cloudflare Pages project to embed a 3d rendered route integrations. |
+
+_Warning: the documentations are currently on the world-wide-web, do not pass sensitive information in any comments._
 
 ## Naming conventions for repositories:
 - "Services" are workers or pages projects that are **not used by customers directly.**
