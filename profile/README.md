@@ -7,7 +7,6 @@
 | [RideTrackerClient](https://github.com/RideTracker/RideTrackerClient) | A TypeScript package to provide a low-level API client for the Ride Tracker service. |
 | | |
 | [AvatarService](https://github.com/RideTracker/AvatarService) | A Cloudflare Workers project to serve an API for avatars. |
-| [AvatarImageService](https://github.com/RideTracker/AvatarImageService) | An Express server to generate server rendered avatars through the avatar service. |
 | [AvatarClient](https://github.com/RideTracker/AvatarClient) | A TypeScript package to provide a low-level API client for the avatar service. |
 | [AvatarAssets](https://github.com/RideTracker/AvatarAssets) | A project to manage the source assets for the avatar service. |
 | | |
