@@ -18,8 +18,6 @@
 | | |
 | [AuthService](https://github.com/RideTracker/AuthService) | A Cloudflare Workers package to provide authentication controllers for services. |
 | [AuthClient](https://github.com/RideTracker/AuthClient) | A TypeScript package to provide a low-level API client for service authentications. |
-| | |
-| [DiscordWebhooksClient](https://github.com/RideTracker/DiscordWebhooksClient) | A TypeScript package to provide a low-level API client for Discord Webhooks. |
 
 ## Naming conventions for repositories:
 - "Services" are workers or pages projects that are **not used by customers directly.**
