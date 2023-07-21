@@ -13,7 +13,7 @@
 | [AvatarClient](https://github.com/RideTracker/AvatarClient) | A TypeScript package to provide a low-level API client for the avatar service. |
 | [AvatarAssets](https://github.com/RideTracker/AvatarAssets) | A project to manage the source assets for the avatar service. |
 | | |
-| [RouteService](https://github.com/RideTracker/RouteService) | A Cloudflare Pages project to embed route integrations and serve route data. |
+| [RouteService](https://github.com/RideTracker/RouteService) | A Cloudflare Workers project to embed route integrations and serve route data. |
 | [RouteClient](https://github.com/RideTracker/RouteClient) | A TypeScript package to provide a low-level API client for RouteService. |
 | | |
 | [AuthService](https://github.com/RideTracker/AuthService) | A Cloudflare Workers package to provide authentication controllers for services. |
