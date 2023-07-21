@@ -13,7 +13,12 @@
 | [AvatarClient](https://github.com/RideTracker/AvatarClient) | A TypeScript package to provide a low-level API client for the avatar service. |
 | [AvatarAssets](https://github.com/RideTracker/AvatarAssets) | A project to manage the source assets for the avatar service. |
 | | |
-| [RouteService](https://github.com/RideTracker/RouteService) | A Cloudflare Pages project to embed a 3d rendered route integrations. |
+| [RouteService](https://github.com/RideTracker/RouteService) | A Cloudflare Pages project to embed route integrations and serve route data. |
+| [RouteClient](https://github.com/RideTracker/RouteClient) | A TypeScript package to provide a low-level API client for RouteService. |
+| | |
+| [AuthService](https://github.com/RideTracker/AuthService) | A Cloudflare Workers package to provide authentication controllers for services. |
+| [AuthClient](https://github.com/RideTracker/AuthClient) | A TypeScript package to provide a low-level API client for service authentications. |
+| | |
 | [DiscordWebhooksClient](https://github.com/RideTracker/DiscordWebhooksClient) | A TypeScript package to provide a low-level API client for Discord Webhooks. |
 
 ## Naming conventions for repositories:
