@@ -2,7 +2,7 @@
 | Name | Description |
 | ---- | ----------- |
 | [RideTrackerApp](https://github.com/RideTracker/RideTrackerApp) | An Expo application to serve the Ride Tracker app. |
-| [RideTrackerApp](https://github.com/RideTracker/RideTrackerWearable) | An Android Wear application in Kotlin to serve the partial Ride Tracker app. |
+| [RideTrackerWearable](https://github.com/RideTracker/RideTrackerWearable) | An Android Wear application in Kotlin to serve the partial Ride Tracker app. |
 | [RideTrackerPages](https://github.com/RideTracker/RideTrackerPages) | A Cloudflare Pages projects to serve the front page of Ride Tracker. |
 | [RideTrackerService](https://github.com/RideTracker/RideTrackerService) | A Cloudflare Workers project to serve as an API for the Ride Tracker app. |
 | [RideTrackerClient](https://github.com/RideTracker/RideTrackerClient) | A TypeScript package to provide a low-level API client for the Ride Tracker service. |
